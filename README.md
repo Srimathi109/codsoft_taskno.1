@@ -13,7 +13,7 @@
 https://srimathi109.github.io/codsoft_taskno.1/
 
 ## Video Demo
-https://www.linkedin.com/posts/srimathib06_codsoft-internship-webdevelopment-activity-7346895248704311297-6JNd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
+https://www.linkedin.com/posts/srimathib06_codsoft-internship-webdevelopment-activity-7346895248704311297-6JNd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
 
 ## Goal
 - The main goal of the project is to learn to use HTML,CSS and to create a portfolio.
