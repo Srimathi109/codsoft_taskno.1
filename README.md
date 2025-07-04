@@ -1,7 +1,7 @@
 # codsoft_taskno.1
 -This is my project repository for the "CODSOFT" Internship done during my summer vacation 2025.
 
-## Personal profolio website: Level-1: Task-1.
+## PERSONAL PORTFOLIO WEBSITE: Level-1: Task-1.
 - This project is created as a part of *CODSOFT WEB DEVELOPMENT INETRNSHIP 2025*.
 - This porject showcases my skills and performance in HTML,CSS and aimed at building my personal portfolio.
 
@@ -10,7 +10,7 @@
 2.CSS3
 
 ## Live Demo
-https://srimathi109.github.io/CODSOFT/index.html
+https://srimathi109.github.io/codsoft_taskno.1/
 
 ## Video Demo
 https://www.linkedin.com/posts/srimathib06_codsoft-internship-webdevelopment-activity-73468952487043112976JNdutm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
